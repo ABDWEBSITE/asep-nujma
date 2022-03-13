@@ -1,0 +1,20 @@
+.carousel-item img{
+  height: 650px;
+}
+.carousel-item h5{
+    font-size: 200px;
+}
+.row .col-md .card img{
+    height: 300px;
+}
+hr{
+  width: 100px;
+  margin-top: auto;
+  color: black;
+}
+video{
+  height: 500px;
+}
+h1{
+  padding-top: 60px;
+}
